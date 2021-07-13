@@ -1,2 +1,2 @@
-# cloud-tasks
+# Cloud Tasks
 Repository for Cloud Tasks
