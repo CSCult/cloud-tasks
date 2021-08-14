@@ -1,1 +1,17 @@
+CSCULT
+<DIVS>PROGRAM: CLOUD DIVISION
+Task 1 
+This is a conclusion derived from the case studies given in the module.
+Cloud Computing is a way of delivering all types of IT services like storage, hardware, network, servers, infrastructure over/through the Internet and at one place. i.e., everything is virtual. It provides a range of services and business solution and is rapidly developing as it address the issues and demand of market. The key features of cloud computing are: -
+•	On Demand Service 
+•	Scalability and elasticity
+•	High Availability
+•	Resource Pooling
+•	Security
+•	Measured Service
+As we can see the characteristics of cloud computing are exactly what the companies wanted. 
+WhatsApp faced the issue of scalability when its users started increasing rapidly and so it turned to IBM SoftLayer to move its data on cloud which provided them with easy management of databases, app accessibility, scalability (increase or decrease resources) and other on demand services.
+ICICI Lombard was developing with a customer centric approach. Being an insurance company, they faced the issue of managing workloads and applications as there are times with significantly greater workloads. Using Microsoft cloud, they built multiple data-intensive applications. Azure provided them with high security, automated management and cost optimization. And when you switch to cloud its other features comes along too.
+Expedia is a travel brand. Availability of its services across different regions with great speed were the biggest challenge. AWS helped in solving this for Expedia. It has several regions and so these services can be accessed from anywhere. This resulted in decreased errors and better performance, increased speed, availability and security. 
+AWS, Azure, IBM cloud, Google Cloud, Alibaba Cloud are some of the leading cloud services providers. Cloud computing solutions can also be used by entertainment companies for live streaming to prevent site crashing etc.
 
